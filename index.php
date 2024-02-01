@@ -14,3 +14,8 @@ echo "Hello my name is Naufal, i am a programmer"
 echo "Hello Hello my name is Naufal, i am a programmer.
 I am learning at timedoors."
 ?>
+</br>
+<?php
+echo "Hello Hello my name is Naufal, i am a programmer.
+I am learning at timedoors. my teacher is mr Putra"
+?>
